@@ -11,12 +11,7 @@ def main():
 	try:
 		print ('''
 
- __            __                .__  .__            ________  
-|  | _______ _/  |_  ____   ____ |  | |__| ____      \_____  \ 
-|  |/ /\__  \\   __\/  _ \ /  _ \|  | |  |/    \      /  ____/ 
-|    <  / __ \|  | (  <_> |  <_> )  |_|  |   |  \    /       \ 
-|__|_ \(____  /__|  \____/ \____/|____/__|___|  / /\ \____++++                                                               
-                                                               
+\030[1;91m[W] KATOOLIN 2 \030[1;m
 
 \033[1;91m[W] Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .\033[1;m
 		''')
