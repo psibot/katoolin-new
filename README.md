@@ -1,4 +1,4 @@
-# katoolin
+# katoolin 2 - WORK IN PROGRESS FOR NEW MENUS
 Automatically install all Kali linux tools
 
 # Features
