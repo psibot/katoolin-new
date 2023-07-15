@@ -11,7 +11,7 @@ def main():
 	try:
 		print ('''
 
-\030[1;91m[W] KATOOLIN 2 \030[1;m
+KATOOLIN 2 
 
 \033[1;91m[W] Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .\033[1;m
 		''')
